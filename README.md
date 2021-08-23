@@ -1,1 +1,1 @@
-# invite
+# invite.github.io
